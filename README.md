@@ -46,7 +46,7 @@ For NVIDIA telemetry, install the NVIDIA driver utilities appropriate for your d
 ## Run from source
 
 ```bash
-git clone https://github.com/stoel1/GAMEMON.git
+git clone https://github.com/stoel1/GAMEMON-TERMINAL.git
 cd GAMEMON
 chmod +x src/gamemon
 ./src/gamemon
